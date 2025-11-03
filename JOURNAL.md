@@ -21,5 +21,8 @@ I did the schematic (see image below) with the EasyEDA editor.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODE0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--865e824781ebe1e17b67b633405a0713a53735cb/image.png)
 
+### Tools
+
+* [EasyEDA Editor Pro](pro.easyeda.com/editor)
   
 
