@@ -26,3 +26,23 @@ I did the schematic (see image below) with the EasyEDA editor.
 * [EasyEDA Editor Pro](pro.easyeda.com/editor)
   
 
+## 11/5/2025 - Made the PCB and uploaded all files to my GitHub  
+
+### Brief
+
+I made the PCB (see image below) with the EasyEDA editor.
+
+### Notes
+
+* I used the Autorouting feature
+* I chose a Gingerbread Man as my PCB outline. I placed my LEDs as Buttons, Eyes and on his hands and feet.
+
+### Images of the PCB
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODY0NywicHVyIjoiYmxvYl9pZCJ9fQ==--ed95c2f8c8e10f0a6803a99c9d8374e576b09a8a/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODY0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--4749748e73bc4ba9f15fcb244eeb942ce635816e/image.png)
+
+
+
+  
+
